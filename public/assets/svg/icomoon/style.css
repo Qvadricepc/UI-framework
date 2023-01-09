@@ -1,0 +1,56 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-twitter {
+  width: 1.25em;
+}
+
+.icon-discord-2 {
+  width: 0.8330078125em;
+}
+
+.icon-medium {
+  width: 1.25em;
+}
+
+.icon-avalanche {
+  width: 0.9990234375em;
+}
+
+.icon-ethereum {
+  width: 0.642578125em;
+}
+
+.icon-arbitrum-one {
+  width: 0.90625em;
+}
+
+.icon-binance-smart-chain {
+  width: 0.853515625em;
+}
+
+.icon-nem {
+  width: 1.0068359375em;
+}
+
+.icon-solana {
+  width: 1.2763671875em;
+}
+
+.icon-tezos {
+  width: 0.734375em;
+}
